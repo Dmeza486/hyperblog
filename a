@@ -1,0 +1,50 @@
+[1mdiff --git a/.lesshst b/.lesshst[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4d1c30b[m
+[1m--- /dev/null[m
+[1m+++ b/.lesshst[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m.less-history-file:[m
+[1mdiff --git a/blogpost.html b/blogpost.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a8e0339[m
+[1m--- /dev/null[m
+[1m+++ b/blogpost.html[m
+[36m@@ -0,0 +1,10 @@[m
+[32m+[m[32m<html>[m
+[32m+[m[32m    <head>[m
+[32m+[m[32m        <title>El titulo del post</title>[m
+[32m+[m[32m        <link rel="stylesheet" href="css/estilos.css" />[m
+[32m+[m[32m    </head>[m
+[32m+[m[32m    <body>[m
+[32m+[m[32m        <h1>Aqui vamos a hacer un blog post</h1>[m
+[32m+[m[32m        <p>Y este es el parrafo de inicio</p>[m
+[32m+[m[32m    </body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/css/estilos.css b/css/estilos.css[m
+[1mnew file mode 100644[m
+[1mindex 0000000..aa53313[m
+[1m--- /dev/null[m
+[1m+++ b/css/estilos.css[m
+[36m@@ -0,0 +1,6 @@[m
+[32m+[m[32mbody[m
+[32m+[m[32m{[m
+[32m+[m[32m    color: deeppink;[m
+[32m+[m[32m    text-align: center;[m
+[32m+[m[32m    font-family: "Arial";[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
+[1mdiff --git a/historia.txt b/historia.txt[m
+[1mindex 77b3772..4e95bde 100644[m
+[1m--- a/historia.txt[m
+[1m+++ b/historia.txt[m
+[36m@@ -2,4 +2,5 @@[m [mHola mery[m
+ Mery eres muy linda e inteligente[m
+ Mery estas aprediendo Git [m
+ Seras una crack manejando versiones[m
+[31m-Mery recuerda que tienes 22 años y estas comprometida con Julian camilo chavarro Morales[m
+\ No newline at end of file[m
+[32m+[m[32mMery recuerda que tienes 22 años y estas comprometida con Julian camilo chavarro Morales[m
+[32m+[m[32mintento de genera losg en git[m
+\ No newline at end of file[m
