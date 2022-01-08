@@ -41,3 +41,12 @@ git diff 38e42e91d09a421ceb0c6a46304caea51edd6960 2a16d7395d79039dacf2ba2319a065
 git status
 git log 
 git diff 19994d2e686a0e0ccadc5872c6a2b180c58e11e3 38e42e91d09a421ceb0c6a46304caea51edd6960
+git status
+git add .
+code
+git add .
+git commit -m "Agregamos el intento de crear carpetas y luego hacer commit"
+git log 
+git status
+git commit -a "Se actualiza la pagina web con un cambio de texto, titulo y estilo
+git status
