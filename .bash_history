@@ -50,3 +50,27 @@ git log
 git status
 git commit -a "Se actualiza la pagina web con un cambio de texto, titulo y estilo
 git status
+git status
+git commit -a -m  "Se actualiza la pagina web con un cambio de texto, titulo y estilo"
+git status
+git log 
+clear
+git branch Cabecera
+git show
+git checkout Cabecera
+git status
+git checkout master
+git status
+git commit -a -m  "elimino la cabecera"
+git log 
+clear
+git checkout Cabecera
+git status
+git add blogpost.html
+git commit -m "Estructura Inicial de la cabecera"
+git status
+git log
+git show
+git log
+clear
+git status
