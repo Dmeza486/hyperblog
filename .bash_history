@@ -74,3 +74,36 @@ git show
 git log
 clear
 git status
+git status
+git log
+code
+git status
+git add.
+git add .
+git status
+git commit -m "Estructura Inicial Cabecera"
+git log
+git checkout master
+git log
+git checkout Cabecera
+git status
+git commit -am "Finalizada la cebecera con diseño azul"
+git log
+git checkout master
+git log
+git checkout Cabecera
+git checkout master
+git commit -am "Agregado el contenido adicional del blog y una mejor tipografia"
+git log
+git checkout Cabecera
+git checkout master
+clear
+git merge Cabecera -m "Merge de la rama cabecera a la rama master"
+git log
+git status
+git commit -am "Eliminado de estilo y html"
+git checkout Cabecera
+git merge Cabecera -m "Merge de la rama cabecera a la rama master"
+git checkout master
+git merge Cabecera -m "Merge de la rama cabecera a la rama master"
+git log
